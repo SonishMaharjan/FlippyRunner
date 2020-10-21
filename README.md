@@ -1,5 +1,23 @@
-# FlippyRunner-firstgameMade-Libgdx-
+# Android App/Flippy Runner
+An infinite 2D runner game, created using Java and libGDX framework.
 
-My first game made using libgdx
-link to play store
-https://play.google.com/store/apps/details?id=com.mikh.updown
+## Table of contents
+* [General Info](#general-info)
+* [Features](#features)
+* [Technologies](#technologies)
+* [Demo](#demo)
+
+## General Info
+An infinite 2D runner game, where you avoid hitting obstacles by flipping a character up or down while running.
+
+## Features
+* App connected to Google Play Services.
+* Integrated AdSense for Ads.
+	
+## Technologies
+Project is created with:
+* Java
+* libGDX
+	
+## Demo
+[Game Demo](https://www.youtube.com/watch?v=1oi6iQwaS74)
