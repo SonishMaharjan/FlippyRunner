@@ -18,6 +18,9 @@ An infinite 2D runner game, where you avoid hitting obstacles by flipping a char
 Project is created with:
 * Java
 * libGDX
+* Firebase
+* Google Play Games API
+* Ad Sense API
 	
 ## Demo
 [Game Demo](https://www.youtube.com/watch?v=1oi6iQwaS74)
